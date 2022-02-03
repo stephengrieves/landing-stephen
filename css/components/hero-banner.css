@@ -1,0 +1,20 @@
+.banner {
+  background-image: url("https://images.unsplash.com/photo-1626185614919-d2a44b5b4e78?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80");
+  background-size: cover;
+  background-position: center;
+  padding: 250px 0;
+  margin-bottom: 56px;
+}
+
+.container {
+  margin: 0px 200px;
+}
+/*
+.container {
+  width: 900px;
+  margin: auto;
+} */
+
+.container h1, h3 {
+  color: orangered;
+}
